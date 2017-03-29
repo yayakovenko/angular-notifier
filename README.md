@@ -8,6 +8,8 @@
 
 # angular-notifier
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dominique-mueller/angular-notifier.svg)](https://greenkeeper.io/)
+
 A well designed, fully animated, highly customizable, and easy-to-use notification library for your **Angular 2+** application.
 
 <br>
