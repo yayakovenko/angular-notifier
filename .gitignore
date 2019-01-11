@@ -15,3 +15,4 @@
 *.old
 *.temp
 *.tmp
+.idea/*
