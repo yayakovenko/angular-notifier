@@ -23,6 +23,11 @@ export class NotifierNotification {
 	public message: string;
 
 	/**
+	 * Notification data
+	 */
+	public data: any;
+
+	/**
 	 * The template to customize
 	 * the appearance of the notification
 	 */
@@ -71,6 +76,11 @@ export interface NotifierNotificationOptions {
 	 * Notificatin message
 	 */
 	message: string;
+
+	/**
+	 * Notification data
+	 */
+	data?: any;
 
 	/**
 	 * The template to customize
